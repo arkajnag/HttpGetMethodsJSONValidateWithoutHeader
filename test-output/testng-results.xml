@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2479" started-at="2018-06-01T13:02:26Z" finished-at="2018-06-01T13:02:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2479" started-at="2018-06-01T13:02:26Z" finished-at="2018-06-01T13:02:29Z">
+      <class name="com.JSONValidate.qa.TestCase.HttpGetMethodJSONValidateTest">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.JSONValidate.qa.TestCase.HttpGetMethodJSONValidateTest@523884b2]" name="SetUp" is-config="true" duration-ms="1722" started-at="2018-06-01T13:02:26Z" finished-at="2018-06-01T13:02:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="GetStatusCodeValidation()[pri:1, instance:com.JSONValidate.qa.TestCase.HttpGetMethodJSONValidateTest@523884b2]" name="GetStatusCodeValidation" duration-ms="8" started-at="2018-06-01T13:02:28Z" finished-at="2018-06-01T13:02:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetStatusCodeValidation -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.JSONValidate.qa.TestCase.HttpGetMethodJSONValidateTest@523884b2]" name="SetUp" is-config="true" duration-ms="670" started-at="2018-06-01T13:02:28Z" finished-at="2018-06-01T13:02:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="GetJSONStringValidation()[pri:2, instance:com.JSONValidate.qa.TestCase.HttpGetMethodJSONValidateTest@523884b2]" name="GetJSONStringValidation" duration-ms="9" started-at="2018-06-01T13:02:29Z" finished-at="2018-06-01T13:02:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetJSONStringValidation -->
+      </class> <!-- com.JSONValidate.qa.TestCase.HttpGetMethodJSONValidateTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
